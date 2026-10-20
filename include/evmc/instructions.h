@@ -177,6 +177,8 @@ enum evmc_opcode
     OP_RETURN = 0xf3,
     OP_DELEGATECALL = 0xf4,
     OP_CREATE2 = 0xf5,
+    OP_AUTH = 0xf6,
+    OP_AUTHCALL = 0xf7,
 
     OP_STATICCALL = 0xfa,
 
