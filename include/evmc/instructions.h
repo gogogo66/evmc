@@ -171,6 +171,8 @@ enum evmc_opcode
     OP_LOG3 = 0xa3,
     OP_LOG4 = 0xa4,
 
+    OP_RJUMP = 0xe0,
+
     OP_CREATE = 0xf0,
     OP_CALL = 0xf1,
     OP_CALLCODE = 0xf2,

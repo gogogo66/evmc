@@ -229,7 +229,7 @@ static const char* osaka_names[256] = {
     /* 0xdd */ NULL,
     /* 0xde */ NULL,
     /* 0xdf */ NULL,
-    /* 0xe0 */ NULL,
+    /* 0xe0 */ "RJUMP",
     /* 0xe1 */ NULL,
     /* 0xe2 */ NULL,
     /* 0xe3 */ NULL,
